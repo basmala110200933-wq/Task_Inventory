@@ -1,0 +1,193 @@
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.exe
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.deps.json
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.runtimeconfig.json
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.pdb
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.csproj.AssemblyReference.cache
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\Administrator.g.cs
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\StockClerk.g.cs
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory_MarkupCompile.cache
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory_MarkupCompile.lref
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\Administrator.baml
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\StockClerk.baml
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.g.resources
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.AssemblyInfoInputs.cache
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.AssemblyInfo.cs
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductI.20E4ACEA.Up2Date
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\refint\ProductInventory.dll
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.pdb
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.genruntimeconfig.cache
+C:\Users\sd\source\repos\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ref\ProductInventory.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.exe
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.deps.json
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.runtimeconfig.json
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\ProductInventory.pdb
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.csproj.AssemblyReference.cache
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\Administrator.g.cs
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\StockClerk.g.cs
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory_MarkupCompile.cache
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory_MarkupCompile.lref
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\Administrator.baml
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\StockClerk.baml
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.g.resources
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.AssemblyInfoInputs.cache
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.AssemblyInfo.cs
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductI.20E4ACEA.Up2Date
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\refint\ProductInventory.dll
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.pdb
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ProductInventory.genruntimeconfig.cache
+C:\Users\sd\Downloads\ProductInventory\ProductInventory\obj\Debug\net8.0-windows\ref\ProductInventory.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\ProductInventory.exe
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\ProductInventory.deps.json
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\ProductInventory.runtimeconfig.json
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\ProductInventory.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\ProductInventory.pdb
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.csproj.AssemblyReference.cache
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\Administrator.baml
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\Administrator.g.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\detalisProduct.g.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\StockClerk.g.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\Suppliers.g.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory_MarkupCompile.cache
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory_MarkupCompile.lref
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\detalisProduct.baml
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\StockClerk.baml
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\Suppliers.baml
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.g.resources
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.AssemblyInfoInputs.cache
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.AssemblyInfo.cs
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductI.20E4ACEA.Up2Date
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\refint\ProductInventory.dll
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.pdb
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ProductInventory.genruntimeconfig.cache
+C:\Users\3aLmy\Downloads\ProductInventory (1)\obj\Debug\net8.0-windows\ref\ProductInventory.dll
